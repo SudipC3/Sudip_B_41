@@ -1,0 +1,22 @@
+Lab 2
+1. To find the sum of square root of any three numbers.
+2. To solve the quadratic equation.
+3. Find GCD of two numbers
+4. Compute a)5 to the power of 8 b)square root of 400 c)exponent of 5 d)Logarithm of 625
+base 5
+5. Compute a)sin of 60 degree b)cos of pi c)sin(0.8660254037844386) d)tan of 90 degree
+6. Define a sum function with two parameters and call the function
+7. WAP to reverse a given string.
+8. Write a function to calculate the power of a number using recursion
+9. Convert Decimal number to Binary
+10. Write a program in Python to check if a number is Krishnamurthy number.
+11. Write a program in Python to find the sum of digits of a number.
+12. Write a program in Python that prompts the user to input a number and prints its
+multiplication table.
+13. Write a Python program to print the first 6 terms of a geometric sequence starting with 2
+and having a common ratio of 3.
+14. Print the series upto N terms: 1,2,6,24,120,720 …
+15. Write a Python program that prompts the user to enter a base number and an exponent,
+and then calculates the power of the base to the exponent. The program should not use the
+exponentiation operator (**) or the math.pow() function.
+*Misc – 10 programs from Java Assignment
